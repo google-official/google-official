@@ -1,4 +1,4 @@
-<h1 align="center">I'm BOKS
+<h1 align="center">HI ! I'm BOKS
 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
 </h1>
 
