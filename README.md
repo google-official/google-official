@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">BOKS
+<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
+<img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNam-Ki-Bok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+</h1>
 
-<!--
-**Nam-Ki-Bok/Nam-Ki-Bok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img align="left" alt="BOKS's gitbub stats" src="https://github-readme-stats.vercel.app/api?username=Nam-Ki-Bok&hide=stars,&show_icons=true&hide_border=true">
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-Ki-Bok&langs_count=6&hide_border=true&layout=compact&exclude_repo=nam-ki-bok.github.io,Awesome-Profile-README-templates">
+</div>
 
-Here are some ideas to get you started:
+<br><br><br><br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
