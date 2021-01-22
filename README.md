@@ -8,6 +8,6 @@
 <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-Ki-Bok&langs_count=6&hide_border=true&layout=compact&exclude_repo=nam-ki-bok.github.io,Awesome-Profile-README-templates">
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ---
