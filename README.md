@@ -24,5 +24,3 @@
 <a href="https://nam-ki-bok.github.io/">
   <img src="http://img.shields.io/badge/blog-black?&logo=github">
 </p>
-
-
