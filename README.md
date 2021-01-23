@@ -3,8 +3,8 @@
 </h1>
 
 <div>
-<img align="left" alt="BOKS's gitbub stats" src="https://github-readme-stats.vercel.app/api?username=Nam-Ki-Bok&hide=stars,&show_icons=true&hide_border=true" width="450">
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-Ki-Bok&langs_count=6&hide_border=true&layout=compact&exclude_repo=nam-ki-bok.github.io,Awesome-Profile-README-templates">
+<img align="left" alt="BOKS's gitbub stats" src="https://github-readme-stats.vercel.app/api?username=Nam-Ki-Bok&hide=stars,&show_icons=true&hide_border=true" width="450" height="160">
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nam-Ki-Bok&langs_count=6&hide_border=true&layout=compact&exclude_repo=nam-ki-bok.github.io,Awesome-Profile-README-templates" height="160">
 </div>
 
 <br><br><br><br><br><br><br>
