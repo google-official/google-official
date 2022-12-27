@@ -22,7 +22,7 @@
 <a href="https://solved.ac/nkb7714">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nkb7714">
   
-<a href="https://nam-ki-bok.github.io/">
+<a href="https://kiboook.github.io/">
   <img src="http://img.shields.io/badge/blog-black?&logo=github">
   
 </p>
