@@ -4,9 +4,9 @@
 
 <div>
   
-  <img align="left" alt="BOKS's gitbub stats" src="https://github-readme-stats.vercel.app/api?username=kiboook&theme=dark&hide=stars&show_icons=true&hide_border=true" width="400" height="160">
+  <img align="left" alt="BOKS's gitbub stats" src="https://github-readme-stats.vercel.app/api?username=kiboook&theme=transparent&hide=stars&show_icons=true&hide_border=true" width="400" height="160">
   
-  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiboook&langs_count=6&hide_border=true&theme=dark&layout=compact&exclude_repo=Programmers,BaekJoon,LeetCode,nam-ki-bok.github.io,Awesome-Profile-README-templates" height="160">
+  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiboook&langs_count=6&hide_border=true&theme=transparent&layout=compact&exclude_repo=Programmers,BaekJoon,LeetCode,nam-ki-bok.github.io,Awesome-Profile-README-templates" height="160">
   
 </div>
 
